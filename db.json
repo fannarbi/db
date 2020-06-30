@@ -1,5 +1,7 @@
 {
-  "Name": "fannar",
-  "Age": "21",
-  "Adress": "blabla"
+  "Profile": {
+    "name": "fannar",
+    "age": "21",
+    "adress": "blabla"
+  }
 }
