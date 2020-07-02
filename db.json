@@ -69,7 +69,7 @@
     },
     {
       "ID": "2",
-      "Text": "Order 1",
+      "Text": "Order 2",
       "time": 6,
       "TableNr": "22",
       "StaffID": "33",
@@ -136,7 +136,7 @@
     },
     {
       "ID": "3",
-      "Text": "Order 1",
+      "Text": "Order 3",
       "time": 6,
       "TableNr": "22",
       "StaffID": "33",
@@ -203,7 +203,275 @@
     },
     {
       "ID": "4",
-      "Text": "Order 1",
+      "Text": "Order 4",
+      "time": 6,
+      "TableNr": "22",
+      "StaffID": "33",
+      "StaffName": "Fannar",
+      "Items": [
+        {
+          "ID": "1",
+          "Text": "Broccoli Chicken",
+          "Quantity": "1",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Mashed Potatoes",
+              "Quantity": "1",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Plain Rice",
+              "Quantity": "1",
+              "Type": "Normal"
+            }
+          ]
+        },
+        {
+          "ID": "2",
+          "Text": "Pasta",
+          "Quantity": "8",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        },
+        {
+          "ID": "3",
+          "Text": "Grilled Chicken",
+          "Quantity": "3",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "5",
+      "Text": "Order 5",
+      "time": 5,
+      "TableNr": "22",
+      "StaffID": "33",
+      "StaffName": "Fannar",
+      "Items": [
+        {
+          "ID": "1",
+          "Text": "Broccoli Chicken",
+          "Quantity": "1",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Mashed Potatoes",
+              "Quantity": "1",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Plain Rice",
+              "Quantity": "1",
+              "Type": "Normal"
+            }
+          ]
+        },
+        {
+          "ID": "2",
+          "Text": "Pasta",
+          "Quantity": "8",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        },
+        {
+          "ID": "3",
+          "Text": "Grilled Chicken",
+          "Quantity": "3",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "6",
+      "Text": "Order 6",
+      "time": 6,
+      "TableNr": "22",
+      "StaffID": "33",
+      "StaffName": "Fannar",
+      "Items": [
+        {
+          "ID": "1",
+          "Text": "Broccoli Chicken",
+          "Quantity": "1",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Mashed Potatoes",
+              "Quantity": "1",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Plain Rice",
+              "Quantity": "1",
+              "Type": "Normal"
+            }
+          ]
+        },
+        {
+          "ID": "2",
+          "Text": "Pasta",
+          "Quantity": "8",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        },
+        {
+          "ID": "3",
+          "Text": "Grilled Chicken",
+          "Quantity": "3",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "7",
+      "Text": "Order 7",
+      "time": 6,
+      "TableNr": "22",
+      "StaffID": "33",
+      "StaffName": "Fannar",
+      "Items": [
+        {
+          "ID": "1",
+          "Text": "Broccoli Chicken",
+          "Quantity": "1",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Mashed Potatoes",
+              "Quantity": "1",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Plain Rice",
+              "Quantity": "1",
+              "Type": "Normal"
+            }
+          ]
+        },
+        {
+          "ID": "2",
+          "Text": "Pasta",
+          "Quantity": "8",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        },
+        {
+          "ID": "3",
+          "Text": "Grilled Chicken",
+          "Quantity": "3",
+          "Modifiers": [
+            {
+              "ID": "1",
+              "Text": "Plain Rice",
+              "Quantity": "5",
+              "Type": "Normal"
+            },
+            {
+              "ID": "2",
+              "Text": "Sauce",
+              "Quantity": "",
+              "Type": "Remove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "8",
+      "Text": "Order 8",
       "time": 6,
       "TableNr": "22",
       "StaffID": "33",
