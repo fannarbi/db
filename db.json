@@ -408,25 +408,6 @@
               "Type": "Normal"
             }
           ]
-        },
-        {
-          "ID": "5",
-          "Text": "Pasta",
-          "Quantity": "8",
-          "Modifiers": [
-            {
-              "ID": "1",
-              "Text": "Plain Rice",
-              "Quantity": "5",
-              "Type": "Normal"
-            },
-            {
-              "ID": "2",
-              "Text": "Sauce",
-              "Quantity": "",
-              "Type": "Remove"
-            }
-          ]
         }
       ]
     }
