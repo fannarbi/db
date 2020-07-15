@@ -389,25 +389,6 @@
               "Type": "Remove"
             }
           ]
-        },
-        {
-          "ID": "4",
-          "Text": "Broccoli Chicken",
-          "Quantity": "1",
-          "Modifiers": [
-            {
-              "ID": "1",
-              "Text": "Mashed Potatoes",
-              "Quantity": "1",
-              "Type": "Normal"
-            },
-            {
-              "ID": "2",
-              "Text": "Plain Rice",
-              "Quantity": "1",
-              "Type": "Normal"
-            }
-          ]
         }
       ]
     }
